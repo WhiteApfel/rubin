@@ -1,0 +1,255 @@
+{
+  "akbars": {
+    "name": "Ак Барс",
+    "backgroundColor": "#00b2a9",
+    "logo": "/banks/akbars.svg"
+  },
+  "absolut": {
+    "name": "Абсолют Банк",
+    "backgroundColor": "#fdb89a",
+    "logo": "/banks/absolutbank.svg"
+  },
+  "alfa": {
+    "name": "Альфа-Банк",
+    "backgroundColor": "#ef3124",
+    "logo": "/banks/alfa_bank.svg"
+  },
+  "atb": {
+    "name": "Азиатско-Тихоокеанский Банк",
+    "backgroundColor": "#FF4F00",
+    "logo": "/banks/atb-bank-logo.svg"
+  },
+  "avangard": {
+    "name": "Авангард",
+    "backgroundColor": "#095b34",
+    "logo": "/banks/avangard.svg"
+  },
+  "binbank": {
+    "name": "Бинбанк",
+    "backgroundColor": "#fc6b08",
+    "logo": "/banks/BinBank.svg"
+  },
+  "ceb": {
+    "name": "Кредит Европа Банк",
+    "backgroundColor": "#0058b2",
+    "logo": "/banks/CreditEuropeBank.svg"
+  },
+  "cetelem": {
+    "name": "Сетелем Банк",
+    "backgroundColor": "#87be32",
+    "logo": ""
+  },
+  "citi": {
+    "name": "Ситибанк",
+    "backgroundColor": "#008bd0",
+    "logo": "/banks/citi.svg"
+  },
+  "globex": {
+    "name": "Глобэкс",
+    "backgroundColor": "#9bdaff",
+    "logo": "/banks/globexbank.svg"
+  },
+  "gpb": {
+    "name": "Газпромбанк",
+    "backgroundColor": "#02356c",
+    "logo": "/banks/Gazprom_bank.svg"
+  },
+  "hcf": {
+    "name": "Хоум Кредит Банк",
+    "backgroundColor": "#e41701",
+    "logo": "/banks/HomeCredit_bank.svg"
+  },
+  "jugra": {
+    "name": "Югра",
+    "backgroundColor": "#f08700",
+    "logo": "/banks/jugra.svg"
+  },
+  "mib": {
+    "name": "Московский Индустриальный Банк",
+    "backgroundColor": "#8f0e0f",
+    "logo": "/banks/minbank.svg"
+  },
+  "mkb": {
+    "name": "Московский Кредитный Банк",
+    "backgroundColor": "#bb0032",
+    "logo": "/banks/mkb.svg"
+  },
+  "mob": {
+    "name": "Московский Областной Банк",
+    "backgroundColor": "#dd3c3d",
+    "logo": ""
+  },
+  "mts": {
+    "name": "МТС Банк",
+    "backgroundColor": "#de1612",
+    "logo": "/banks/mts_bank.svg"
+  },
+  "novikom": {
+    "name": "Новикомбанк",
+    "backgroundColor": "#00529b",
+    "logo": "/banks/novikom.svg"
+  },
+  "open": {
+    "name": "ФК Открытие",
+    "backgroundColor": "#00b3e1",
+    "logo": "/banks/open.svg"
+  },
+  "otp": {
+    "name": "ОТП Банк",
+    "backgroundColor": "#acff90",
+    "logo": "/banks/otp_bank.svg"
+  },
+  "pochta": {
+    "name": "Почта Банк",
+    "backgroundColor": "#001689",
+    "logo": "/banks/pochtabank.svg"
+  },
+  "psb": {
+    "name": "Промсвязьбанк",
+    "backgroundColor": "#f57b20",
+    "logo": "/banks/psbank.svg"
+  },
+  "raiffeisen": {
+    "name": "Райффайзенбанк",
+    "backgroundColor": "#ffed00",
+    "logo": "/banks/raiffeisen.svg"
+  },
+  "reb": {
+    "name": "РосЕвроБанк",
+    "backgroundColor": "#4b1650",
+    "logo": "/banks/rosevrobank.svg"
+  },
+  "ren": {
+    "name": "Ренессанс Кредит",
+    "backgroundColor": "#368839",
+    "logo": ""
+  },
+  "rgs": {
+    "name": "Росгосстрах Банк",
+    "backgroundColor": "#b31b2c",
+    "logo": "/banks/rgsbank.svg"
+  },
+  "rosbank": {
+    "name": "Росбанк",
+    "backgroundColor": "#d3b9ba",
+    "logo": "/banks/RosBank.svg"
+  },
+  "roscap": {
+    "name": "Российский Капитал",
+    "backgroundColor": "#092832",
+    "logo": "/banks/roscap.svg"
+  },
+  "rossiya": {
+    "name": "Россия",
+    "backgroundColor": "#e1433b",
+    "logo": "/banks/Russia_bank.svg"
+  },
+  "rsb": {
+    "name": "Русский Стандарт",
+    "backgroundColor": "#414042",
+    "logo": "/banks/rsb.svg"
+  },
+  "rshb": {
+    "name": "Россельхозбанк",
+    "backgroundColor": "#007f2b",
+    "logo": "/banks/rshb.svg"
+  },
+  "sberbank": {
+    "name": "Сбербанк России",
+    "backgroundColor": "#1a9f29",
+    "logo": "/banks/Sberbank.svg"
+  },
+  "skb": {
+    "name": "СКБ-Банк",
+    "backgroundColor": "#006b5a",
+    "logo": "/banks/skb_bank.svg"
+  },
+  "smp": {
+    "name": "СМП Банк",
+    "backgroundColor": "#9fe5ff",
+    "logo": "/banks/smp_bank.svg"
+  },
+  "sovkom": {
+    "name": "Совкомбанк",
+    "backgroundColor": "#4e63a6",
+    "logo": "/banks/sovcom.svg"
+  },
+  "spb": {
+    "name": "Банк «Санкт-Петербург»",
+    "backgroundColor": "#ffcfcf",
+    "logo": "/banks/bspb.svg"
+  },
+  "sviaz": {
+    "name": "Связь-Банк",
+    "backgroundColor": "#1c5b9a",
+    "logo": ""
+  },
+  "tcb": {
+    "name": "Транскапиталбанк",
+    "backgroundColor": "#8cf5f4",
+    "logo": "/banks/tkbbank.svg"
+  },
+  "tinkoff": {
+    "name": "Тинькофф Банк",
+    "backgroundColor": "#ffe64a",
+    "logo": "/banks/tinkoff.svg"
+  },
+  "trust": {
+    "name": "Траст",
+    "backgroundColor": "#231f20",
+    "logo": "/banks/trust.svg"
+  },
+  "ubrd": {
+    "name": "Уральский Банк Реконструкции и Развития",
+    "backgroundColor": "#ffd9e4",
+    "logo": "/banks/ubrr.svg"
+  },
+  "ucb": {
+    "name": "ЮниКредит Банк",
+    "backgroundColor": "#250c0c",
+    "logo": "/banks/unicreditbank.svg"
+  },
+  "uralsib": {
+    "name": "Банк Уралсиб",
+    "backgroundColor": "#2c4257",
+    "logo": "/banks/uralsib.svg"
+  },
+  "vbrr": {
+    "name": "Всероссийский Банк Развития Регионов",
+    "backgroundColor": "#173e6d",
+    "logo": "/banks/vbrr.svg"
+  },
+  "veb": {
+    "name": "Восточный Экспресс Банк",
+    "backgroundColor": "#004e96",
+    "logo": "/banks/vostbank.svg"
+  },
+  "vozrozhdenie": {
+    "name": "Возрождение",
+    "backgroundColor": "#2e5584",
+    "logo": "/banks/vbank.svg"
+  },
+  "vtb": {
+    "name": "ВТБ Банк Москвы",
+    "backgroundColor": "#1d2d70",
+    "logo": "/banks/Moscow_bank.svg"
+  },
+  "vtb24": {
+    "name": "ВТБ 24",
+    "backgroundColor": "#0e2d93",
+    "logo": "/banks/vtb.svg"
+  },
+  "zenit": {
+    "name": "Зенит",
+    "backgroundColor": "#008c99",
+    "logo": "/banks/zenit.svg"
+  },
+  "akibank": {
+    "name": "АКИБАНК",
+    "backgroundColor": "#2671a9"
+  },
+  "rnko": {
+    "name": "РНКО Платежный центр",
+    "backgroundColor": "#ee193a"
+  }
+}

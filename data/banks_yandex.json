@@ -1,0 +1,241 @@
+{
+  "crediteuropebank": {},
+  "baltinvestbank": {},
+  "promsvyazbank": {},
+  "vneshprombank": {
+    "front": "background: #1c7c6a: color: #fff;",
+    "label": "opacity: 0.6;",
+    "text": "opacity: 0.9;",
+    "isWhiteIcons": true
+  },
+  "center-invest": {
+    "front": "background: #fff: color: #50b848;",
+    "label": "color: #000;opacity: 0.4;",
+    "text": "color: #50b848;opacity: 1;"
+  },
+  "intercommerz": {},
+  "transcapital": {
+    "front": "background: #fff: color: #000;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 0.5;"
+  },
+  "express-bank": {},
+  "tatfondbank": {
+    "front": "background: #125f4f: color: #fff;",
+    "label": "opacity: 0.6;",
+    "text": "opacity: 0.9;",
+    "isWhiteIcons": true
+  },
+  "novikombank": {
+    "front": "background: #2b4087: color: #fff;",
+    "label": "opacity: 0.6;",
+    "text": "opacity: 0.9;",
+    "isWhiteIcons": true
+  },
+  "bank-moskvi": {
+    "front": "background: #f1f1f1: color: #000;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 0.5;"
+  },
+  "moscredbank": {
+    "front": "background: #b2002c: color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 1;",
+    "isWhiteIcons": true
+  },
+  "russtandart": {
+    "front": "background: #5c5242: color: #fff;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 0.6;",
+    "isWhiteIcons": true
+  },
+  "probusiness": {
+    "front": "background: #fff: color: #005c4d;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 1;"
+  },
+  "az-to-bank": {
+    "front": "background: #fafafa: color: #fff;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 0.6;"
+  },
+  "raiffeisen": {
+    "front": "background: linear-gradient(138deg, #f0f0f0 0%, #b4b4b4 100%): color: #000;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 0.5;"
+  },
+  "homecredit": {
+    "front": "background: #e1ddd6: color: #000;",
+    "label": "opacity: 0.5;",
+    "text": "opacity: 0.6;"
+  },
+  "rocketbank": {
+    "label": "opacity: 0.4;",
+    "text": "opacity: 0.6;",
+    "isWhiteIcons": true
+  },
+  "finservice": {},
+  "visa-qiwi": {
+    "front": "background: #333: color: #fff;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 0.6;",
+    "isWhiteIcons": true
+  },
+  "leto-bank": {
+    "front": "background: linear-gradient(-45deg, #de3a6c 0%, #f7a349 100%): color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 1;",
+    "isWhiteIcons": true
+  },
+  "unicredit": {
+    "front": "background: linear-gradient(180deg, #dddee0 0%, #7b889a 100%): color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 0.7;",
+    "isWhiteIcons": true
+  },
+  "mts-bank": {
+    "front": "background-image: linear-gradient(-45deg, #7b0211 0%, #c2171f 100%): color: #fff;",
+    "label": "opacity: 0.8;",
+    "text": "opacity: 1;",
+    "isWhiteIcons": true
+  },
+  "alfabank": {
+    "front": "background-image: linear-gradient(225deg, #800000 0%, #d6191f 100%): color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 1;",
+    "isWhiteIcons": true
+  },
+  "otkritie": {},
+  "spb-bank": {
+    "front": "background: linear-gradient(180deg, #fff 0%, #f5f5f5 100%): color: #000;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 0.5;"
+  },
+  "citibank": {
+    "front": "background: linear-gradient(90deg, #d3f2ff 0%, #068fcb 54%, #223778 100%): color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 0.9;",
+    "isWhiteIcons": true
+  },
+  "skb-bank": {
+    "front": "background: #fff: color: #016a52;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 1;"
+  },
+  "sberbank": {
+    "front": "background: #00703c: color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 1;",
+    "isWhiteIcons": true
+  },
+  "smp-bank": {
+    "front": "background: linear-gradient(180deg, #eaeaea 0%, #fff 94%): color: #000;",
+    "label": "opacity: 0.5;",
+    "text": "opacity: 0.6;"
+  },
+  "fnp-bank": {
+    "front": "background: #0079c2: color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 0.9;",
+    "isWhiteIcons": true
+  },
+  "expobank": {
+    "front": "background: #034962: color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 0.9;",
+    "isWhiteIcons": true
+  },
+  "avangard": {
+    "front": "background: #fff: color: #003a23;",
+    "label": "color: #000;opacity: 0.4;",
+    "text": "color: #003a23;opacity: 1;"
+  },
+  "gasprom": {
+    "front": "background: #073776: color: #fff;",
+    "label": "opacity: 0.5;",
+    "text": "opacity: 0.9;",
+    "isWhiteIcons": true
+  },
+  "rosbank": {
+    "front": "background: #eef3f8: color: #000;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 0.5;"
+  },
+  "binbank": {
+    "front": "background: linear-gradient(135deg, #51c3f0 0%, #2c2882 100%): color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 0.9;",
+    "isWhiteIcons": true
+  },
+  "rossiya": {},
+  "tinkoff": {
+    "front": "background: #303030: color: #fff;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 0.6;",
+    "isWhiteIcons": true
+  },
+  "globex": {
+    "front": "background: #02356c: color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 1;",
+    "isWhiteIcons": true
+  },
+  "inteza": {
+    "front": "background: #fff: color: #006c37;",
+    "label": "opacity: 0.4;",
+    "text": "opacity: 1;"
+  },
+  "akbars": {},
+  "soyuz": {
+    "front": "background: #263679: color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 0.9;",
+    "isWhiteIcons": true
+  },
+  "vtb24": {
+    "front": "background: linear-gradient(180deg, #fff 0%, #f8fbff 100%): color: #3d444e;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 0.8;"
+  },
+  "zenit": {
+    "front": "background: #007176: color: #000;",
+    "label": "opacity: 0.5;",
+    "text": "opacity: 0.9;",
+    "isWhiteIcons": true
+  },
+  "jugra": {},
+  "vbrr": {
+    "front": "background: #cedef4: color: #0d227d;",
+    "label": "color: #000;opacity: 0.5;",
+    "text": "color: #0d227d;opacity: 1;"
+  },
+  "mdm": {
+    "front": "background: linear-gradient(135deg, #dfa329 0%, #c85320 100%): color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 1;",
+    "isWhiteIcons": true
+  },
+  "rsb": {
+    "front": "background: #10512d: color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 1;",
+    "isWhiteIcons": true
+  },
+  "mib": {},
+  "rgs": {
+    "front": "background: #fff: color: #7e1b20;",
+    "label": "color: #000;opacity: 0.4;",
+    "text": "color: #7e1b20;opacity: 1;"
+  },
+  "mfk": {
+    "front": "background: #243847: color: #fff;",
+    "label": "opacity: 0.7;",
+    "text": "opacity: 0.9;",
+    "isWhiteIcons": true
+  },
+  "ym": {
+    "label": "opacity: 0.4;",
+    "text": "opacity: 0.6;",
+    "isWhiteIcons": true
+  }
+} 
