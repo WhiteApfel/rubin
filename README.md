@@ -36,7 +36,7 @@
 * Русский Стандарт
     * [Страница c2c](https://www.rsb.ru/platezhi-perevody/s-karty-na-kartu/)
 
-### Банки и сервисы с проверкой бинов по API
+### Банки и сервисы с проверкой бинов по API:
 * Тинькофф
     * [Страница c2c](https://www.tinkoff.ru/cardtocard/)
 * Альфабанк Беларусь
